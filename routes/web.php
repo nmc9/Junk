@@ -14,8 +14,14 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/', function () {
+    return view('welcome');
+});
 //DO a bunch of new stuff. compeltyly revolutionizre the industry.
 //
+<<<<<<< HEAD
 Route::get('/index.php',function(){
 	return view('welcome');
 });
+=======
+>>>>>>> feature-test

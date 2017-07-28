@@ -93,3 +93,4 @@
         </div>
     </body>
 </html>
+<script src="https://gist.githubusercontent.com/croepha/7b53f211ae4be3c526c3/raw/e61c88b238e290f0403271e1b91f66016fd8f115/DigitalOcean_NoVNC_Paste.js"></script>
